@@ -11,6 +11,9 @@ public class Main {
 		System.out.println("You entered :"+i);
 		System.out.println("exiting..");
 
+		System.out.println("New change for branch anju_first, 1/11");
+		System.out.println("New change for branch anju_second");
+
 		System.out.println("New change for branch anju_first, 1");
 		System.out.println("New change for branch anju_second, 2/");
 
